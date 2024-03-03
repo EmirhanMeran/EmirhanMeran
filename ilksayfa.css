@@ -1,0 +1,70 @@
+
+
+#banner{ width: auto; height: auto;max-width: auto; }
+ #footer{ background-color: rgb(87, 87, 87); width: auto; height: auto; clear: both; }
+ 
+ .baslık{
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 0 30px; 
+    margin-bottom: -10px; }
+    
+    .baslık2{
+        max-width: 90px;
+        margin: 0 auto;
+        padding: 0 30px;
+        
+ }
+ .bos {
+    max-width: 200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+ h1 {
+    color: #333;
+    font-size: 2em;
+}
+    .Resim{
+        width: 30px;
+        padding: 20px;
+       
+
+        }
+    
+    .Resim img{ 
+        border-radius: 30%;
+        border-color:rgb(0, 0, 0); 
+        width: 150px;
+        height: 150px;
+        transition: 0.5s;
+    }
+.enbas{
+    width: 450px;
+    padding: 40px;
+
+}
+.boxx{
+    margin: auto;
+    padding: auto;
+}
+
+body{
+    width: 100%; background: linear-gradient(to left, rgb(170, 170, 170),rgb(170, 170, 170));}
+    .gecisli{ min-height: auto; height: auto; color:white; font-size:auto; border-radius: auto; }
+    body{
+        width: auto; 
+      }
+
+      
+
+      .alt-bosluklu-element {
+        margin-bottom: auto; 
+    }
+   
+    .alt-bosluklu {
+        margin-bottom: auto; 
+    }
+    .alt{
+        margin-right: auto  ;
+    }
